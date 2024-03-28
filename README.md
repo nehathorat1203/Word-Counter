@@ -12,11 +12,9 @@
 //  10. Adding a graphical user interface (GUI) for a more user-friendly experience.
 
 import java.util.*;
-
 public class Project2 {
     static int tcount = 0;
     static int ncount = 0;
-
     // break the user string to array
     public static int stringToArray(String str, String s1, String arr[]) {
         for (int i = 0; i < str.length(); i++) {
